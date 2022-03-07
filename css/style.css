@@ -27,7 +27,14 @@
     top: 10px;
 }
 
-
+.discount{
+    position: absolute;
+    padding: 3px 5px;
+    background-color: rgb(235, 0, 55);
+    color: white;
+    bottom: 10px;
+    font-size: 0.6rem;
+}
 /* MAIN */
 
 .first-image{
