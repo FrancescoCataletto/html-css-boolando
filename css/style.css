@@ -5,9 +5,18 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+main{
+    width: 70%;
+    margin: 0 auto;
+    max-width: 1600px;
+    min-width: 600px;
+}
+
 .container{
     width: 270px;
     height: 450px;
+    display: inline-block;
+    padding-right: 10px;
 }
 
 .product{
@@ -88,4 +97,24 @@
 
 .first-image{
     background-image: url("../img/1.webp");
+}
+
+.second-image{
+    background-image: url("../img/2.webp");
+}
+
+.third-image{
+    background-image: url("../img/3.webp");
+}
+
+.fourth-image{
+    background-image: url("../img/4.webp");
+}
+
+.fifth-image{
+    background-image: url("../img/5.webp");
+}
+
+.sixth-image{
+    background-image: url("../img/6.webp");
 }
