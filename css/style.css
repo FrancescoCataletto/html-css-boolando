@@ -118,3 +118,31 @@ main{
 .sixth-image{
     background-image: url("../img/6.webp");
 }
+
+.first-image:hover{
+    background-image: url("../img/1b.webp");
+}
+
+.second-image:hover{
+    background-image: url("../img/2b.webp");
+}
+
+.third-image:hover{
+    background-image: url("../img/3b.webp");
+}
+
+.fourth-image:hover{
+    background-image: url("../img/4b.webp");
+}
+
+.fifth-image:hover{
+    background-image: url("../img/5b.webp");
+}
+
+.sixth-image:hover{
+    background-image: url("../img/6b.webp");
+}
+
+.sixth-image .eco{
+    left: 0;
+}
