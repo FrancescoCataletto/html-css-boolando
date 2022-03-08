@@ -53,24 +53,22 @@ main{
     top: 10px;
 }
 
-.discount{
+.info{
     position: absolute;
+    color: white;
+    font-size: 0.5rem;
+    bottom: 20px;
+}
+
+.discount{
     padding: 3px 5px;
     background-color: rgb(235, 0, 55);
-    color: white;
-    bottom: 10px;
-    font-size: 0.5rem;
 }
 
 .eco{
-    position: absolute;
-    bottom: 10px;
-    left: 31px;
     padding: 3px 5px;
-    font-size: 0.5rem;
     text-transform: capitalize;
     background-color: rgb(0, 135, 90);
-    color: white;
 }
 
 .description{
